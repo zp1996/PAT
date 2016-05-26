@@ -13,7 +13,7 @@ int main ()
 	res = res > 0 ? res : 0;
 	if (res > 891) 
 	{
-		throw "数字超过10的100次方";
+		throw "string number is too big";
 	}
 	string chinese[10] = {"ling","yi","er","san","si","wu","liu","qi","ba","jiu"};
 	str = "";
