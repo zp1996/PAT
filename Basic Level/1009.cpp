@@ -4,7 +4,7 @@
 using namespace std;
 int main () 
 {
-	char str[80];
+	char str[90];
 	gets(str);
 	string arr[80];
 	string temp = "";
